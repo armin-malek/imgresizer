@@ -1,0 +1,3 @@
+app: "imgsharp"
+platform: "node"
+port: 3000
